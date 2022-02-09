@@ -1,0 +1,22 @@
+<visita id="22">
+  <data>2022-02-11</data>
+  <numAmigos>5</numAmigos>
+  <localidade>Leiria</localidade>
+  <idade>20</idade>
+  <compras>
+            <produto>
+                <descricao>Peluche</descricao>
+                <preco>7</preco>
+            </produto>
+            <produto>
+                <descricao>Marcador de página</descricao>
+                <preco>1</preco>
+            </produto>
+        </compras>
+  <brindes>
+            <brinde>Aromatizador</brinde>
+            <brinde>Pin</brinde>
+            <brinde>Livro temático</brinde>
+        </brindes>
+  <gift>Livro temático</gift>
+</visita>

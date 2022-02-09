@@ -1,0 +1,13 @@
+<visita id="42">
+  <data>2022-02-20</data>
+  <numAmigos>0</numAmigos>
+  <localidade>Aveiro</localidade>
+  <idade>60</idade>
+  <compras>
+        </compras>
+  <brindes>
+            <brinde>Bola</brinde>
+            <brinde>Pin</brinde>
+        </brindes>
+  <gift>Pin</gift>
+</visita>

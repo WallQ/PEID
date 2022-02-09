@@ -1,0 +1,21 @@
+<visita id="40">
+  <data>2022-02-19</data>
+  <numAmigos>5</numAmigos>
+  <localidade>Beja</localidade>
+  <idade>57</idade>
+  <compras>
+            <produto>
+                <descricao>T-shirt</descricao>
+                <preco>8</preco>
+            </produto>
+            <produto>
+                <descricao>Caneca</descricao>
+                <preco>5</preco>
+            </produto>
+        </compras>
+  <brindes>
+            <brinde>Marcador de página</brinde>
+            <brinde>Calendário</brinde>
+        </brindes>
+  <gift>Marcador de página</gift>
+</visita>

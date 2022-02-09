@@ -1,0 +1,23 @@
+<visita id="39">
+  <data>2022-02-19</data>
+  <numAmigos>5</numAmigos>
+  <localidade>Braga</localidade>
+  <idade>51</idade>
+  <compras>
+            <produto>
+                <descricao>Escultura</descricao>
+                <preco>8</preco>
+            </produto>
+            <produto>
+                <descricao>Pin</descricao>
+                <preco>1</preco>
+            </produto>
+        </compras>
+  <brindes>
+            <brinde>Caneca</brinde>
+            <brinde>Bloco de notas</brinde>
+            <brinde>Aromatizador</brinde>
+            <brinde>Peluche</brinde>
+        </brindes>
+  <gift>Bloco de notas</gift>
+</visita>

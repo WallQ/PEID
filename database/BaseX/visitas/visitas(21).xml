@@ -1,0 +1,17 @@
+<visita id="21">
+  <data>2022-02-11</data>
+  <numAmigos>1</numAmigos>
+  <localidade>Faro</localidade>
+  <idade>55</idade>
+  <compras>
+            <produto>
+                <descricao>Escultura</descricao>
+                <preco>8</preco>
+            </produto>
+        </compras>
+  <brindes>
+            <brinde>Régua</brinde>
+            <brinde>Poster</brinde>
+        </brindes>
+  <gift>Régua</gift>
+</visita>

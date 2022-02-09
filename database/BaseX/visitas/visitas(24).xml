@@ -1,0 +1,16 @@
+<visita id="24">
+  <data>2022-02-12</data>
+  <numAmigos>0</numAmigos>
+  <localidade>Porto</localidade>
+  <idade>49</idade>
+  <compras>
+            <produto>
+                <descricao>T-shirt</descricao>
+                <preco>8</preco>
+            </produto>
+        </compras>
+  <brindes>
+            <brinde>Porta chaves</brinde>
+        </brindes>
+  <gift>Porta chaves</gift>
+</visita>

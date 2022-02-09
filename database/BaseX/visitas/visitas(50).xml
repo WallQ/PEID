@@ -1,0 +1,18 @@
+<visita id="50">
+  <data>2022-02-24</data>
+  <numAmigos>1</numAmigos>
+  <localidade>Portalegre</localidade>
+  <idade>54</idade>
+  <compras>
+            <produto>
+                <descricao>Guarda-chuva</descricao>
+                <preco>5</preco>
+            </produto>
+        </compras>
+  <brindes>
+            <brinde>Escultura</brinde>
+            <brinde>Bola</brinde>
+            <brinde>Livro temático</brinde>
+        </brindes>
+  <gift>Livro temático</gift>
+</visita>

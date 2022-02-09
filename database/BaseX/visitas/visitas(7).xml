@@ -1,0 +1,23 @@
+<visita id="7">
+  <data>2022-01-31</data>
+  <numAmigos>5</numAmigos>
+  <localidade>Lisboa</localidade>
+  <idade>32</idade>
+  <compras>
+            <produto>
+                <descricao>Aromatizador</descricao>
+                <preco>2.5</preco>
+            </produto>
+            <produto>
+                <descricao>Bola</descricao>
+                <preco>7</preco>
+            </produto>
+        </compras>
+  <brindes>
+            <brinde>Porta chaves</brinde>
+            <brinde>Régua</brinde>
+            <brinde>Caneca</brinde>
+            <brinde>Escultura</brinde>
+        </brindes>
+  <gift>Caneca</gift>
+</visita>

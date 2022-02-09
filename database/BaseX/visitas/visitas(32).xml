@@ -1,0 +1,32 @@
+<visita id="32">
+  <data>2022-02-17</data>
+  <numAmigos>1</numAmigos>
+  <localidade>Évora</localidade>
+  <idade>25</idade>
+  <compras>
+            <produto>
+                <descricao>Livro temático</descricao>
+                <preco>7</preco>
+            </produto>
+            <produto>
+                <descricao>Caneta</descricao>
+                <preco>1.5</preco>
+            </produto>
+            <produto>
+                <descricao>Bloco de notas</descricao>
+                <preco>3</preco>
+            </produto>
+            <produto>
+                <descricao>Calendário</descricao>
+                <preco>2</preco>
+            </produto>
+            <produto>
+                <descricao>Régua</descricao>
+                <preco>1.5</preco>
+            </produto>
+        </compras>
+  <brindes>
+            <brinde>Porta chaves</brinde>
+        </brindes>
+  <gift>Porta chaves</gift>
+</visita>

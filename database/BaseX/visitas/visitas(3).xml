@@ -1,0 +1,16 @@
+<visita id="3">
+  <data>2022-01-10</data>
+  <numAmigos>3</numAmigos>
+  <localidade>Leiria</localidade>
+  <idade>40</idade>
+  <compras>
+            <produto>
+                <descricao>Caneca</descricao>
+                <preco>5</preco>
+            </produto>
+        </compras>
+  <brindes>
+            <brinde>Aromatizador</brinde>
+        </brindes>
+  <gift>Porta Chaves</gift>
+</visita>

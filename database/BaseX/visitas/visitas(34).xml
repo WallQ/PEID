@@ -1,0 +1,16 @@
+<visita id="34">
+  <data>2022-02-17</data>
+  <numAmigos>0</numAmigos>
+  <localidade>Coimbra</localidade>
+  <idade>60</idade>
+  <compras>
+            <produto>
+                <descricao>Pin</descricao>
+                <preco>1</preco>
+            </produto>
+        </compras>
+  <brindes>
+            <brinde>Aromatizador</brinde>
+        </brindes>
+  <gift>Aromatizador</gift>
+</visita>

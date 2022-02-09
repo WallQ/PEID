@@ -1,0 +1,16 @@
+<visita id="28">
+  <data>2022-02-15</data>
+  <numAmigos>2</numAmigos>
+  <localidade>Aveiro</localidade>
+  <idade>44</idade>
+  <compras>
+            <produto>
+                <descricao>Escultura</descricao>
+                <preco>8</preco>
+            </produto>
+        </compras>
+  <brindes>
+            <brinde>Peluche</brinde>
+        </brindes>
+  <gift>Peluche</gift>
+</visita>

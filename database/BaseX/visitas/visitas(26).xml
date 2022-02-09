@@ -1,0 +1,29 @@
+<visita id="26">
+  <data>2022-02-13</data>
+  <numAmigos>5</numAmigos>
+  <localidade>Portalegre</localidade>
+  <idade>53</idade>
+  <compras>
+            <produto>
+                <descricao>Escultura</descricao>
+                <preco>8</preco>
+            </produto>
+            <produto>
+                <descricao>Livro temático</descricao>
+                <preco>7</preco>
+            </produto>
+            <produto>
+                <descricao>Aromatizador</descricao>
+                <preco>2.5</preco>
+            </produto>
+            <produto>
+                <descricao>Caneta</descricao>
+                <preco>1.5</preco>
+            </produto>
+        </compras>
+  <brindes>
+            <brinde>Porta chaves</brinde>
+            <brinde>Bloco de notas</brinde>
+        </brindes>
+  <gift>Bloco de notas</gift>
+</visita>

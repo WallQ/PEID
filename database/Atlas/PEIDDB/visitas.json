@@ -1,0 +1,2368 @@
+[{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02e7"
+  },
+  "@id": 10,
+  "date": {
+    "$date": "2022-02-02T00:00:00Z"
+  },
+  "numAmigos": 1,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b68"
+  },
+  "idade": 18,
+  "compras": [
+    {
+      "descricao": "Peluche",
+      "preco": 7
+    }
+  ],
+  "brindes": [
+    "Escultura",
+    "Bola",
+    "Livro temático"
+  ],
+  "gift": "Livro temático",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 8
+    },
+    {
+      "sala": "s2",
+      "tempo": 9
+    },
+    {
+      "sala": "s3",
+      "tempo": 2
+    },
+    {
+      "sala": "s4",
+      "tempo": 2
+    },
+    {
+      "sala": "s5",
+      "tempo": 13
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02e8"
+  },
+  "@id": 11,
+  "date": {
+    "$date": "2022-02-03T00:00:00Z"
+  },
+  "numAmigos": 4,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b30"
+  },
+  "idade": 56,
+  "compras": [],
+  "brindes": [
+    "Pin",
+    "Caneta"
+  ],
+  "gift": "Caneta",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 8
+    },
+    {
+      "sala": "s2",
+      "tempo": 9
+    },
+    {
+      "sala": "s3",
+      "tempo": 2
+    },
+    {
+      "sala": "s4",
+      "tempo": 2
+    },
+    {
+      "sala": "s5",
+      "tempo": 13
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02e9"
+  },
+  "@id": 12,
+  "date": {
+    "$date": "2022-02-03T00:00:00Z"
+  },
+  "numAmigos": 2,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b15"
+  },
+  "idade": 28,
+  "compras": [
+    {
+      "descricao": "Régua",
+      "preco": 1.5
+    },
+    {
+      "descricao": "Livro temático",
+      "preco": 7
+    },
+    {
+      "descricao": "T-shirt",
+      "preco": 8
+    }
+  ],
+  "brindes": [],
+  "gift": "Porta chaves",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 9
+    },
+    {
+      "sala": "s2",
+      "tempo": 2
+    },
+    {
+      "sala": "s3",
+      "tempo": 11
+    },
+    {
+      "sala": "s4",
+      "tempo": 4
+    },
+    {
+      "sala": "s5",
+      "tempo": 15
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02ea"
+  },
+  "@id": 13,
+  "date": {
+    "$date": "2022-02-03T00:00:00Z"
+  },
+  "numAmigos": 5,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b1e"
+  },
+  "idade": 18,
+  "compras": [
+    {
+      "descricao": "Bola",
+      "preco": 7
+    }
+  ],
+  "brindes": [
+    "Escultura",
+    "Peluche",
+    "Poster"
+  ],
+  "gift": "Peluche",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 9
+    },
+    {
+      "sala": "s2",
+      "tempo": 5
+    },
+    {
+      "sala": "s3",
+      "tempo": 6
+    },
+    {
+      "sala": "s4",
+      "tempo": 7
+    },
+    {
+      "sala": "s5",
+      "tempo": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02eb"
+  },
+  "@id": 14,
+  "date": {
+    "$date": "2022-02-04T00:00:00Z"
+  },
+  "numAmigos": 0,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b29"
+  },
+  "idade": 50,
+  "compras": [
+    {
+      "descricao": "Poster",
+      "preco": 5
+    }
+  ],
+  "brindes": [
+    "Peluche"
+  ],
+  "gift": "Peluche",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 12
+    },
+    {
+      "sala": "s2",
+      "tempo": 4
+    },
+    {
+      "sala": "s3",
+      "tempo": 3
+    },
+    {
+      "sala": "s4",
+      "tempo": 9
+    },
+    {
+      "sala": "s5",
+      "tempo": 5
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02ec"
+  },
+  "@id": 15,
+  "date": {
+    "$date": "2022-02-04T00:00:00Z"
+  },
+  "numAmigos": 5,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b29"
+  },
+  "idade": 58,
+  "compras": [
+    {
+      "descricao": "Aromatizador",
+      "preco": 2.5
+    },
+    {
+      "descricao": "Caneca",
+      "preco": 5
+    }
+  ],
+  "brindes": [
+    "Marcador de página",
+    "Porta chaves"
+  ],
+  "gift": "Marcador de página",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 10
+    },
+    {
+      "sala": "s2",
+      "tempo": 3
+    },
+    {
+      "sala": "s3",
+      "tempo": 4
+    },
+    {
+      "sala": "s4",
+      "tempo": 12
+    },
+    {
+      "sala": "s5",
+      "tempo": 8
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02ed"
+  },
+  "@id": 16,
+  "date": {
+    "$date": "2022-02-04T00:00:00Z"
+  },
+  "numAmigos": 3,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b15"
+  },
+  "idade": 35,
+  "compras": [
+    {
+      "descricao": "Poster",
+      "preco": 5
+    }
+  ],
+  "brindes": [
+    "Calendário",
+    "Pin",
+    "Bola"
+  ],
+  "gift": "Pin",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 4
+    },
+    {
+      "sala": "s2",
+      "tempo": 6
+    },
+    {
+      "sala": "s3",
+      "tempo": 11
+    },
+    {
+      "sala": "s4",
+      "tempo": 8
+    },
+    {
+      "sala": "s5",
+      "tempo": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02ee"
+  },
+  "@id": 17,
+  "date": {
+    "$date": "2022-02-04T00:00:00Z"
+  },
+  "numAmigos": 2,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b12"
+  },
+  "idade": 60,
+  "compras": [
+    {
+      "descricao": "Caneca",
+      "preco": 5
+    }
+  ],
+  "brindes": [
+    "Porta chaves"
+  ],
+  "gift": "Porta chaves",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 9
+    },
+    {
+      "sala": "s2",
+      "tempo": 3
+    },
+    {
+      "sala": "s3",
+      "tempo": 6
+    },
+    {
+      "sala": "s4",
+      "tempo": 4
+    },
+    {
+      "sala": "s5",
+      "tempo": 10
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02ef"
+  },
+  "@id": 18,
+  "date": {
+    "$date": "2022-02-05T00:00:00Z"
+  },
+  "numAmigos": 0,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b15"
+  },
+  "idade": 48,
+  "compras": [],
+  "brindes": [
+    "Pin",
+    "Livro temático",
+    "Porta chaves"
+  ],
+  "gift": "Livro temático",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 2
+    },
+    {
+      "sala": "s2",
+      "tempo": 6
+    },
+    {
+      "sala": "s3",
+      "tempo": 9
+    },
+    {
+      "sala": "s4",
+      "tempo": 5
+    },
+    {
+      "sala": "s5",
+      "tempo": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02f0"
+  },
+  "@id": 19,
+  "date": {
+    "$date": "2022-02-05T00:00:00Z"
+  },
+  "numAmigos": 2,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b29"
+  },
+  "idade": 51,
+  "compras": [
+    {
+      "descricao": "Calendário",
+      "preco": 2
+    },
+    {
+      "descricao": "Aromatizador",
+      "preco": 2.5
+    }
+  ],
+  "brindes": [
+    "T-shirt"
+  ],
+  "gift": "T-shirt",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 9
+    },
+    {
+      "sala": "s2",
+      "tempo": 7
+    },
+    {
+      "sala": "s3",
+      "tempo": 4
+    },
+    {
+      "sala": "s4",
+      "tempo": 2
+    },
+    {
+      "sala": "s5",
+      "tempo": 18
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02f1"
+  },
+  "@id": 2,
+  "date": {
+    "$date": "2022-01-10T00:00:00Z"
+  },
+  "numAmigos": 2,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b29"
+  },
+  "idade": 23,
+  "compras": [
+    {
+      "descricao": "Livro temático",
+      "preco": 7
+    },
+    {
+      "descricao": "Marcador de página",
+      "preco": 1
+    }
+  ],
+  "brindes": [
+    "Calendário",
+    "Pin",
+    "Régua"
+  ],
+  "gift": "Porta chaves",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 9
+    },
+    {
+      "sala": "s2",
+      "tempo": 7
+    },
+    {
+      "sala": "s3",
+      "tempo": 4
+    },
+    {
+      "sala": "s4",
+      "tempo": 2
+    },
+    {
+      "sala": "s5",
+      "tempo": 18
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02f2"
+  },
+  "@id": 20,
+  "date": {
+    "$date": "2022-02-05T00:00:00Z"
+  },
+  "numAmigos": 3,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b29"
+  },
+  "idade": 36,
+  "compras": [
+    {
+      "descricao": "Porta chaves",
+      "preco": 1.5
+    },
+    {
+      "descricao": "Livro temático",
+      "preco": 7
+    }
+  ],
+  "brindes": [
+    "Caneta",
+    "Calendário",
+    "Pin",
+    "Escultura"
+  ],
+  "gift": "Caneta",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 3
+    },
+    {
+      "sala": "s2",
+      "tempo": 8
+    },
+    {
+      "sala": "s3",
+      "tempo": 6
+    },
+    {
+      "sala": "s4",
+      "tempo": 4
+    },
+    {
+      "sala": "s5",
+      "tempo": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02f3"
+  },
+  "@id": 21,
+  "date": {
+    "$date": "2022-02-11T00:00:00Z"
+  },
+  "numAmigos": 1,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b30"
+  },
+  "idade": 55,
+  "compras": [
+    {
+      "descricao": "Escultura",
+      "preco": 8
+    }
+  ],
+  "brindes": [
+    "Régua",
+    "Poster"
+  ],
+  "gift": "Régua",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 3
+    },
+    {
+      "sala": "s2",
+      "tempo": 8
+    },
+    {
+      "sala": "s3",
+      "tempo": 6
+    },
+    {
+      "sala": "s4",
+      "tempo": 4
+    },
+    {
+      "sala": "s5",
+      "tempo": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02f4"
+  },
+  "@id": 22,
+  "date": {
+    "$date": "2022-02-11T00:00:00Z"
+  },
+  "numAmigos": 5,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b49"
+  },
+  "idade": 20,
+  "compras": [
+    {
+      "descricao": "Peluche",
+      "preco": 7
+    },
+    {
+      "descricao": "Marcador de página",
+      "preco": 1
+    }
+  ],
+  "brindes": [
+    "Aromatizador",
+    "Pin",
+    "Livro temático"
+  ],
+  "gift": "Livro temático",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 9
+    },
+    {
+      "sala": "s2",
+      "tempo": 7
+    },
+    {
+      "sala": "s3",
+      "tempo": 4
+    },
+    {
+      "sala": "s4",
+      "tempo": 2
+    },
+    {
+      "sala": "s5",
+      "tempo": 18
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02f5"
+  },
+  "@id": 23,
+  "date": {
+    "$date": "2022-02-12T00:00:00Z"
+  },
+  "numAmigos": 1,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b49"
+  },
+  "idade": 40,
+  "compras": [],
+  "brindes": [
+    "Pin"
+  ],
+  "gift": "Pin",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 2
+    },
+    {
+      "sala": "s2",
+      "tempo": 6
+    },
+    {
+      "sala": "s3",
+      "tempo": 9
+    },
+    {
+      "sala": "s4",
+      "tempo": 5
+    },
+    {
+      "sala": "s5",
+      "tempo": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02f6"
+  },
+  "@id": 24,
+  "date": {
+    "$date": "2022-02-12T00:00:00Z"
+  },
+  "numAmigos": 0,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b15"
+  },
+  "idade": 49,
+  "compras": [
+    {
+      "descricao": "T-shirt",
+      "preco": 8
+    }
+  ],
+  "brindes": [
+    "Porta chaves"
+  ],
+  "gift": "Porta chaves",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 9
+    },
+    {
+      "sala": "s2",
+      "tempo": 3
+    },
+    {
+      "sala": "s3",
+      "tempo": 6
+    },
+    {
+      "sala": "s4",
+      "tempo": 4
+    },
+    {
+      "sala": "s5",
+      "tempo": 10
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02f7"
+  },
+  "@id": 25,
+  "date": {
+    "$date": "2022-02-13T00:00:00Z"
+  },
+  "numAmigos": 2,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b15"
+  },
+  "idade": 18,
+  "compras": [],
+  "brindes": [
+    "Caneta",
+    "Pin",
+    "Caneca"
+  ],
+  "gift": "Caneta",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 4
+    },
+    {
+      "sala": "s2",
+      "tempo": 6
+    },
+    {
+      "sala": "s3",
+      "tempo": 11
+    },
+    {
+      "sala": "s4",
+      "tempo": 8
+    },
+    {
+      "sala": "s5",
+      "tempo": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02f8"
+  },
+  "@id": 26,
+  "date": {
+    "$date": "2022-02-13T00:00:00Z"
+  },
+  "numAmigos": 5,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b68"
+  },
+  "idade": 53,
+  "compras": [
+    {
+      "descricao": "Escultura",
+      "preco": 8
+    },
+    {
+      "descricao": "Livro temático",
+      "preco": 7
+    },
+    {
+      "descricao": "Aromatizador",
+      "preco": 2.5
+    },
+    {
+      "descricao": "Caneta",
+      "preco": 1.5
+    }
+  ],
+  "brindes": [
+    "Porta chaves",
+    "Bloco de notas"
+  ],
+  "gift": "Bloco de notas",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 10
+    },
+    {
+      "sala": "s2",
+      "tempo": 3
+    },
+    {
+      "sala": "s3",
+      "tempo": 4
+    },
+    {
+      "sala": "s4",
+      "tempo": 12
+    },
+    {
+      "sala": "s5",
+      "tempo": 8
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02f9"
+  },
+  "@id": 27,
+  "date": {
+    "$date": "2022-02-14T00:00:00Z"
+  },
+  "numAmigos": 2,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b15"
+  },
+  "idade": 33,
+  "compras": [],
+  "brindes": [
+    "Régua",
+    "Caneca"
+  ],
+  "gift": "Caneca",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 12
+    },
+    {
+      "sala": "s2",
+      "tempo": 4
+    },
+    {
+      "sala": "s3",
+      "tempo": 3
+    },
+    {
+      "sala": "s4",
+      "tempo": 9
+    },
+    {
+      "sala": "s5",
+      "tempo": 5
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02fa"
+  },
+  "@id": 28,
+  "date": {
+    "$date": "2022-02-15T00:00:00Z"
+  },
+  "numAmigos": 2,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b29"
+  },
+  "idade": 44,
+  "compras": [
+    {
+      "descricao": "Escultura",
+      "preco": 8
+    }
+  ],
+  "brindes": [
+    "Peluche"
+  ],
+  "gift": "Peluche",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 9
+    },
+    {
+      "sala": "s2",
+      "tempo": 5
+    },
+    {
+      "sala": "s3",
+      "tempo": 6
+    },
+    {
+      "sala": "s4",
+      "tempo": 7
+    },
+    {
+      "sala": "s5",
+      "tempo": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02fb"
+  },
+  "@id": 29,
+  "date": {
+    "$date": "2022-02-15T00:00:00Z"
+  },
+  "numAmigos": 1,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b23"
+  },
+  "idade": 27,
+  "compras": [],
+  "brindes": [
+    "Caneca"
+  ],
+  "gift": "Caneca",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 9
+    },
+    {
+      "sala": "s2",
+      "tempo": 2
+    },
+    {
+      "sala": "s3",
+      "tempo": 11
+    },
+    {
+      "sala": "s4",
+      "tempo": 4
+    },
+    {
+      "sala": "s5",
+      "tempo": 15
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02fc"
+  },
+  "@id": 3,
+  "date": {
+    "$date": "2022-01-10T00:00:00Z"
+  },
+  "numAmigos": 3,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b49"
+  },
+  "idade": 40,
+  "compras": [
+    {
+      "descricao": "Caneca",
+      "preco": 5
+    }
+  ],
+  "brindes": [
+    "Aromatizador"
+  ],
+  "gift": "Porta chaves",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 2
+    },
+    {
+      "sala": "s2",
+      "tempo": 6
+    },
+    {
+      "sala": "s3",
+      "tempo": 9
+    },
+    {
+      "sala": "s4",
+      "tempo": 5
+    },
+    {
+      "sala": "s5",
+      "tempo": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02fd"
+  },
+  "@id": 30,
+  "date": {
+    "$date": "2022-02-15T00:00:00Z"
+  },
+  "numAmigos": 1,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b68"
+  },
+  "idade": 18,
+  "compras": [
+    {
+      "descricao": "Calendário",
+      "preco": 2
+    }
+  ],
+  "brindes": [
+    "Escultura",
+    "Bola",
+    "Livro temático"
+  ],
+  "gift": "Livro temático",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 8
+    },
+    {
+      "sala": "s2",
+      "tempo": 9
+    },
+    {
+      "sala": "s3",
+      "tempo": 2
+    },
+    {
+      "sala": "s4",
+      "tempo": 2
+    },
+    {
+      "sala": "s5",
+      "tempo": 13
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02fe"
+  },
+  "@id": 31,
+  "date": {
+    "$date": "2022-02-16T00:00:00Z"
+  },
+  "numAmigos": 5,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b4c"
+  },
+  "idade": 56,
+  "compras": [],
+  "brindes": [
+    "Pin"
+  ],
+  "gift": "Pin",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 8
+    },
+    {
+      "sala": "s2",
+      "tempo": 9
+    },
+    {
+      "sala": "s3",
+      "tempo": 2
+    },
+    {
+      "sala": "s4",
+      "tempo": 2
+    },
+    {
+      "sala": "s5",
+      "tempo": 13
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea02ff"
+  },
+  "@id": 32,
+  "date": {
+    "$date": "2022-02-17T00:00:00Z"
+  },
+  "numAmigos": 1,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b38"
+  },
+  "idade": 25,
+  "compras": [
+    {
+      "descricao": "Livro temático",
+      "preco": 7
+    },
+    {
+      "descricao": "Caneta",
+      "preco": 1.5
+    },
+    {
+      "descricao": "Bloco de notas",
+      "preco": 3
+    },
+    {
+      "descricao": "Calendário",
+      "preco": 2
+    },
+    {
+      "descricao": "Régua",
+      "preco": 1.5
+    }
+  ],
+  "brindes": [
+    "Porta chaves"
+  ],
+  "gift": "Porta chaves",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 9
+    },
+    {
+      "sala": "s2",
+      "tempo": 2
+    },
+    {
+      "sala": "s3",
+      "tempo": 11
+    },
+    {
+      "sala": "s4",
+      "tempo": 4
+    },
+    {
+      "sala": "s5",
+      "tempo": 15
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea0300"
+  },
+  "@id": 33,
+  "date": {
+    "$date": "2022-02-17T00:00:00Z"
+  },
+  "numAmigos": 2,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b1e"
+  },
+  "idade": 56,
+  "compras": [
+    {
+      "descricao": "Bola",
+      "preco": 7
+    }
+  ],
+  "brindes": [
+    "Escultura",
+    "Peluche",
+    "Poster"
+  ],
+  "gift": "Peluche",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 9
+    },
+    {
+      "sala": "s2",
+      "tempo": 5
+    },
+    {
+      "sala": "s3",
+      "tempo": 6
+    },
+    {
+      "sala": "s4",
+      "tempo": 7
+    },
+    {
+      "sala": "s5",
+      "tempo": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea0301"
+  },
+  "@id": 34,
+  "date": {
+    "$date": "2022-02-17T00:00:00Z"
+  },
+  "numAmigos": 0,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b1e"
+  },
+  "idade": 60,
+  "compras": [
+    {
+      "descricao": "Pin",
+      "preco": 1
+    }
+  ],
+  "brindes": [
+    "Aromatizador"
+  ],
+  "gift": "Aromatizador",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 12
+    },
+    {
+      "sala": "s2",
+      "tempo": 4
+    },
+    {
+      "sala": "s3",
+      "tempo": 3
+    },
+    {
+      "sala": "s4",
+      "tempo": 9
+    },
+    {
+      "sala": "s5",
+      "tempo": 5
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea0302"
+  },
+  "@id": 35,
+  "date": {
+    "$date": "2022-02-17T00:00:00Z"
+  },
+  "numAmigos": 2,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b59"
+  },
+  "idade": 29,
+  "compras": [
+    {
+      "descricao": "T-shirt",
+      "preco": 8
+    }
+  ],
+  "brindes": [
+    "Caneca"
+  ],
+  "gift": "Caneca",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 10
+    },
+    {
+      "sala": "s2",
+      "tempo": 3
+    },
+    {
+      "sala": "s3",
+      "tempo": 4
+    },
+    {
+      "sala": "s4",
+      "tempo": 12
+    },
+    {
+      "sala": "s5",
+      "tempo": 8
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea0303"
+  },
+  "@id": 36,
+  "date": {
+    "$date": "2022-02-17T00:00:00Z"
+  },
+  "numAmigos": 4,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b29"
+  },
+  "idade": 35,
+  "compras": [
+    {
+      "descricao": "Marcador de página",
+      "preco": 1
+    },
+    {
+      "descricao": "Livro temático",
+      "preco": 7
+    }
+  ],
+  "brindes": [
+    "Escultura"
+  ],
+  "gift": "Escultura",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 4
+    },
+    {
+      "sala": "s2",
+      "tempo": 6
+    },
+    {
+      "sala": "s3",
+      "tempo": 11
+    },
+    {
+      "sala": "s4",
+      "tempo": 8
+    },
+    {
+      "sala": "s5",
+      "tempo": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea0304"
+  },
+  "@id": 37,
+  "date": {
+    "$date": "2022-02-18T00:00:00Z"
+  },
+  "numAmigos": 4,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b15"
+  },
+  "idade": 45,
+  "compras": [
+    {
+      "descricao": "Bloco de notas",
+      "preco": 3
+    }
+  ],
+  "brindes": [
+    "Caneta"
+  ],
+  "gift": "Caneta",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 9
+    },
+    {
+      "sala": "s2",
+      "tempo": 3
+    },
+    {
+      "sala": "s3",
+      "tempo": 6
+    },
+    {
+      "sala": "s4",
+      "tempo": 4
+    },
+    {
+      "sala": "s5",
+      "tempo": 10
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea0305"
+  },
+  "@id": 38,
+  "date": {
+    "$date": "2022-02-18T00:00:00Z"
+  },
+  "numAmigos": 0,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b15"
+  },
+  "idade": 50,
+  "compras": [],
+  "brindes": [
+    "Bola",
+    "Poster"
+  ],
+  "gift": "Bola",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 2
+    },
+    {
+      "sala": "s2",
+      "tempo": 6
+    },
+    {
+      "sala": "s3",
+      "tempo": 9
+    },
+    {
+      "sala": "s4",
+      "tempo": 5
+    },
+    {
+      "sala": "s5",
+      "tempo": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea0306"
+  },
+  "@id": 39,
+  "date": {
+    "$date": "2022-02-19T00:00:00Z"
+  },
+  "numAmigos": 5,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b16"
+  },
+  "idade": 51,
+  "compras": [
+    {
+      "descricao": "Escultura",
+      "preco": 8
+    },
+    {
+      "descricao": "Pin",
+      "preco": 1
+    }
+  ],
+  "brindes": [
+    "Caneca",
+    "Bloco de notas",
+    "Aromatizador",
+    "Peluche"
+  ],
+  "gift": "Bloco de notas",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 9
+    },
+    {
+      "sala": "s2",
+      "tempo": 7
+    },
+    {
+      "sala": "s3",
+      "tempo": 4
+    },
+    {
+      "sala": "s4",
+      "tempo": 2
+    },
+    {
+      "sala": "s5",
+      "tempo": 18
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea0307"
+  },
+  "@id": 4,
+  "date": {
+    "$date": "2022-01-11T00:00:00Z"
+  },
+  "numAmigos": 1,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b29"
+  },
+  "idade": 52,
+  "compras": [
+    {
+      "descricao": "Porta chaves",
+      "preco": 1.5
+    },
+    {
+      "descricao": "Peluche",
+      "preco": 7
+    }
+  ],
+  "brindes": [
+    "Pin",
+    "Escultura",
+    "Peluche"
+  ],
+  "gift": "Porta chaves",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 9
+    },
+    {
+      "sala": "s2",
+      "tempo": 3
+    },
+    {
+      "sala": "s3",
+      "tempo": 6
+    },
+    {
+      "sala": "s4",
+      "tempo": 4
+    },
+    {
+      "sala": "s5",
+      "tempo": 10
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea0308"
+  },
+  "@id": 40,
+  "date": {
+    "$date": "2022-02-19T00:00:00Z"
+  },
+  "numAmigos": 5,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b55"
+  },
+  "idade": 57,
+  "compras": [
+    {
+      "descricao": "T-shirt",
+      "preco": 8
+    },
+    {
+      "descricao": "Caneca",
+      "preco": 5
+    }
+  ],
+  "brindes": [
+    "Marcador de página",
+    "Calendário"
+  ],
+  "gift": "Marcador de página",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 3
+    },
+    {
+      "sala": "s2",
+      "tempo": 8
+    },
+    {
+      "sala": "s3",
+      "tempo": 6
+    },
+    {
+      "sala": "s4",
+      "tempo": 4
+    },
+    {
+      "sala": "s5",
+      "tempo": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea0309"
+  },
+  "@id": 41,
+  "date": {
+    "$date": "2022-02-20T00:00:00Z"
+  },
+  "numAmigos": 0,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b29"
+  },
+  "idade": 20,
+  "compras": [
+    {
+      "descricao": "Caneta",
+      "preco": 1.5
+    },
+    {
+      "descricao": "Bloco de notas",
+      "preco": 3
+    }
+  ],
+  "brindes": [
+    "Porta chaves"
+  ],
+  "gift": "Porta chaves",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 3
+    },
+    {
+      "sala": "s2",
+      "tempo": 8
+    },
+    {
+      "sala": "s3",
+      "tempo": 6
+    },
+    {
+      "sala": "s4",
+      "tempo": 4
+    },
+    {
+      "sala": "s5",
+      "tempo": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea030a"
+  },
+  "@id": 42,
+  "date": {
+    "$date": "2022-02-20T00:00:00Z"
+  },
+  "numAmigos": 0,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b29"
+  },
+  "idade": 60,
+  "compras": [],
+  "brindes": [
+    "Bola",
+    "Pin"
+  ],
+  "gift": "Pin",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 9
+    },
+    {
+      "sala": "s2",
+      "tempo": 7
+    },
+    {
+      "sala": "s3",
+      "tempo": 4
+    },
+    {
+      "sala": "s4",
+      "tempo": 2
+    },
+    {
+      "sala": "s5",
+      "tempo": 18
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea030b"
+  },
+  "@id": 43,
+  "date": {
+    "$date": "2022-02-20T00:00:00Z"
+  },
+  "numAmigos": 5,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b15"
+  },
+  "idade": 18,
+  "compras": [
+    {
+      "descricao": "Bola",
+      "preco": 7
+    },
+    {
+      "descricao": "Poster",
+      "preco": 5
+    },
+    {
+      "descricao": "Escultura",
+      "preco": 8
+    }
+  ],
+  "brindes": [
+    "Caneca"
+  ],
+  "gift": "Caneca",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 2
+    },
+    {
+      "sala": "s2",
+      "tempo": 6
+    },
+    {
+      "sala": "s3",
+      "tempo": 9
+    },
+    {
+      "sala": "s4",
+      "tempo": 5
+    },
+    {
+      "sala": "s5",
+      "tempo": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea030c"
+  },
+  "@id": 44,
+  "date": {
+    "$date": "2022-02-20T00:00:00Z"
+  },
+  "numAmigos": 4,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b33"
+  },
+  "idade": 34,
+  "compras": [
+    {
+      "descricao": "Caneca",
+      "preco": 5
+    },
+    {
+      "descricao": "Pin",
+      "preco": 1
+    }
+  ],
+  "brindes": [
+    "Poster",
+    "Régua"
+  ],
+  "gift": "Régua",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 9
+    },
+    {
+      "sala": "s2",
+      "tempo": 3
+    },
+    {
+      "sala": "s3",
+      "tempo": 6
+    },
+    {
+      "sala": "s4",
+      "tempo": 4
+    },
+    {
+      "sala": "s5",
+      "tempo": 10
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea030d"
+  },
+  "@id": 45,
+  "date": {
+    "$date": "2022-02-21T00:00:00Z"
+  },
+  "numAmigos": 0,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b29"
+  },
+  "idade": 20,
+  "compras": [
+    {
+      "descricao": "Escultura",
+      "preco": 8
+    }
+  ],
+  "brindes": [
+    "Caneta"
+  ],
+  "gift": "Caneta",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 4
+    },
+    {
+      "sala": "s2",
+      "tempo": 6
+    },
+    {
+      "sala": "s3",
+      "tempo": 11
+    },
+    {
+      "sala": "s4",
+      "tempo": 8
+    },
+    {
+      "sala": "s5",
+      "tempo": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea030e"
+  },
+  "@id": 46,
+  "date": {
+    "$date": "2022-02-21T00:00:00Z"
+  },
+  "numAmigos": 4,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b49"
+  },
+  "idade": 47,
+  "compras": [
+    {
+      "descricao": "Calendário",
+      "preco": 2
+    },
+    {
+      "descricao": "Caneta",
+      "preco": 1.5
+    }
+  ],
+  "brindes": [
+    "Caneca",
+    "Aromatizador",
+    "Régua"
+  ],
+  "gift": "Caneca",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 10
+    },
+    {
+      "sala": "s2",
+      "tempo": 3
+    },
+    {
+      "sala": "s3",
+      "tempo": 4
+    },
+    {
+      "sala": "s4",
+      "tempo": 12
+    },
+    {
+      "sala": "s5",
+      "tempo": 8
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea030f"
+  },
+  "@id": 47,
+  "date": {
+    "$date": "2022-02-22T00:00:00Z"
+  },
+  "numAmigos": 2,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b12"
+  },
+  "idade": 18,
+  "compras": [],
+  "brindes": [
+    "T-shirt",
+    "Régua",
+    "Caneca",
+    "Escultura"
+  ],
+  "gift": "Caneca",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 12
+    },
+    {
+      "sala": "s2",
+      "tempo": 4
+    },
+    {
+      "sala": "s3",
+      "tempo": 3
+    },
+    {
+      "sala": "s4",
+      "tempo": 9
+    },
+    {
+      "sala": "s5",
+      "tempo": 5
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea0310"
+  },
+  "@id": 48,
+  "date": {
+    "$date": "2022-02-22T00:00:00Z"
+  },
+  "numAmigos": 10,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b15"
+  },
+  "idade": 35,
+  "compras": [
+    {
+      "descricao": "Bola",
+      "preco": 7
+    }
+  ],
+  "brindes": [
+    "Caneca"
+  ],
+  "gift": "Caneca",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 9
+    },
+    {
+      "sala": "s2",
+      "tempo": 5
+    },
+    {
+      "sala": "s3",
+      "tempo": 6
+    },
+    {
+      "sala": "s4",
+      "tempo": 7
+    },
+    {
+      "sala": "s5",
+      "tempo": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea0311"
+  },
+  "@id": 49,
+  "date": {
+    "$date": "2022-02-23T00:00:00Z"
+  },
+  "numAmigos": 2,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b29"
+  },
+  "idade": 24,
+  "compras": [
+    {
+      "descricao": "Bola",
+      "preco": 7
+    }
+  ],
+  "brindes": [
+    "Guarda-chuva",
+    "Pin"
+  ],
+  "gift": "Pin",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 9
+    },
+    {
+      "sala": "s2",
+      "tempo": 2
+    },
+    {
+      "sala": "s3",
+      "tempo": 11
+    },
+    {
+      "sala": "s4",
+      "tempo": 4
+    },
+    {
+      "sala": "s5",
+      "tempo": 15
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea0312"
+  },
+  "@id": 5,
+  "date": {
+    "$date": "2022-01-28T00:00:00Z"
+  },
+  "numAmigos": 4,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b15"
+  },
+  "idade": 18,
+  "compras": [
+    {
+      "descricao": "Escultura",
+      "preco": 8
+    },
+    {
+      "descricao": "T-shirt",
+      "preco": 8
+    }
+  ],
+  "brindes": [
+    "Poster",
+    "Caneta"
+  ],
+  "gift": "Caneta",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 4
+    },
+    {
+      "sala": "s2",
+      "tempo": 6
+    },
+    {
+      "sala": "s3",
+      "tempo": 11
+    },
+    {
+      "sala": "s4",
+      "tempo": 8
+    },
+    {
+      "sala": "s5",
+      "tempo": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea0313"
+  },
+  "@id": 50,
+  "date": {
+    "$date": "2022-02-24T00:00:00Z"
+  },
+  "numAmigos": 1,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b68"
+  },
+  "idade": 54,
+  "compras": [
+    {
+      "descricao": "Guarda-chuva",
+      "preco": 5
+    }
+  ],
+  "brindes": [
+    "Escultura",
+    "Bola",
+    "Livro temático"
+  ],
+  "gift": "Livro temático",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 8
+    },
+    {
+      "sala": "s2",
+      "tempo": 9
+    },
+    {
+      "sala": "s3",
+      "tempo": 2
+    },
+    {
+      "sala": "s4",
+      "tempo": 2
+    },
+    {
+      "sala": "s5",
+      "tempo": 13
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea0314"
+  },
+  "@id": 6,
+  "date": {
+    "$date": "2022-01-28T00:00:00Z"
+  },
+  "numAmigos": 1,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b15"
+  },
+  "idade": 50,
+  "compras": [
+    {
+      "descricao": "Aromatizador",
+      "preco": 2.5
+    },
+    {
+      "descricao": "Pin",
+      "preco": 1
+    },
+    {
+      "descricao": "Caneta",
+      "preco": 1.5
+    }
+  ],
+  "brindes": [
+    "Caneca"
+  ],
+  "gift": "Caneca",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 10
+    },
+    {
+      "sala": "s2",
+      "tempo": 3
+    },
+    {
+      "sala": "s3",
+      "tempo": 4
+    },
+    {
+      "sala": "s4",
+      "tempo": 12
+    },
+    {
+      "sala": "s5",
+      "tempo": 8
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea0315"
+  },
+  "@id": 7,
+  "date": {
+    "$date": "2022-01-31T00:00:00Z"
+  },
+  "numAmigos": 5,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b12"
+  },
+  "idade": 32,
+  "compras": [
+    {
+      "descricao": "Aromatizador",
+      "preco": 2.5
+    },
+    {
+      "descricao": "Bola",
+      "preco": 7
+    }
+  ],
+  "brindes": [
+    "Porta chaves",
+    "Régua",
+    "Caneca",
+    "Escultura"
+  ],
+  "gift": "Caneca",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 12
+    },
+    {
+      "sala": "s2",
+      "tempo": 4
+    },
+    {
+      "sala": "s3",
+      "tempo": 3
+    },
+    {
+      "sala": "s4",
+      "tempo": 9
+    },
+    {
+      "sala": "s5",
+      "tempo": 5
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea0316"
+  },
+  "@id": 8,
+  "date": {
+    "$date": "2022-01-31T00:00:00Z"
+  },
+  "numAmigos": 2,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b15"
+  },
+  "idade": 48,
+  "compras": [
+    {
+      "descricao": "Caneta",
+      "preco": 1.5
+    },
+    {
+      "descricao": "Bloco de notas",
+      "preco": 3
+    }
+  ],
+  "brindes": [
+    "Calendário"
+  ],
+  "gift": "Porta chaves",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 9
+    },
+    {
+      "sala": "s2",
+      "tempo": 5
+    },
+    {
+      "sala": "s3",
+      "tempo": 6
+    },
+    {
+      "sala": "s4",
+      "tempo": 7
+    },
+    {
+      "sala": "s5",
+      "tempo": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea0317"
+  },
+  "@id": 9,
+  "date": {
+    "$date": "2022-02-02T00:00:00Z"
+  },
+  "numAmigos": 5,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b23"
+  },
+  "idade": 24,
+  "compras": [
+    {
+      "descricao": "Porta chaves",
+      "preco": 1.5
+    },
+    {
+      "descricao": "Peluche",
+      "preco": 7
+    }
+  ],
+  "brindes": [
+    "Bola",
+    "Pin"
+  ],
+  "gift": "Pin",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 9
+    },
+    {
+      "sala": "s2",
+      "tempo": 2
+    },
+    {
+      "sala": "s3",
+      "tempo": 11
+    },
+    {
+      "sala": "s4",
+      "tempo": 4
+    },
+    {
+      "sala": "s5",
+      "tempo": 15
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f414dde77204b3bdea0318"
+  },
+  "@id": 1,
+  "date": {
+    "$date": "2022-01-05T00:00:00Z"
+  },
+  "numAmigos": 1,
+  "localidade": {
+    "$oid": "61f1f8942735feb968393b29"
+  },
+  "idade": 20,
+  "compras": [
+    {
+      "descricao": "Caneta",
+      "preco": 1.5
+    },
+    {
+      "descricao": "Bloco de notas",
+      "preco": 3
+    }
+  ],
+  "brindes": [
+    "Calendário",
+    "T-shirt"
+  ],
+  "gift": "Porta chaves",
+  "tempos": [
+    {
+      "sala": "s1",
+      "tempo": 3
+    },
+    {
+      "sala": "s2",
+      "tempo": 8
+    },
+    {
+      "sala": "s3",
+      "tempo": 6
+    },
+    {
+      "sala": "s4",
+      "tempo": 4
+    },
+    {
+      "sala": "s5",
+      "tempo": 3
+    }
+  ]
+}]

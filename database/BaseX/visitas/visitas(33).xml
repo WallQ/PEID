@@ -1,0 +1,18 @@
+<visita id="33">
+  <data>2022-02-17</data>
+  <numAmigos>2</numAmigos>
+  <localidade>Coimbra</localidade>
+  <idade>56</idade>
+  <compras>
+            <produto>
+                <descricao>Bola</descricao>
+                <preco>7</preco>
+            </produto>
+        </compras>
+  <brindes>
+            <brinde>Escultura</brinde>
+            <brinde>Peluche</brinde>
+            <brinde>Poster</brinde>
+        </brindes>
+  <gift>Peluche</gift>
+</visita>

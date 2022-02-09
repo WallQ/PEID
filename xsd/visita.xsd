@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="visita">
+        <xs:complexType>
+            <xs:all>
+                <xs:element name="data" type="xs:date" />
+                <xs:element name="numAmigos" type="xs:integer" />
+                <xs:element name="localidade" type="xs:string" />
+                <xs:element name="idade" type="xs:positiveInteger" />
+                <xs:element name="compras">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="produto" minOccurs="0" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="descricao" type="xs:string" />
+                                        <xs:element name="preco">
+                                            <xs:simpleType>
+                                                <xs:restriction base="xs:double">
+                                                    <xs:maxInclusive value="8" />
+                                                </xs:restriction>
+                                            </xs:simpleType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="brindes">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="brinde" type="xs:string" minOccurs="0" maxOccurs="4" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:all>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
+

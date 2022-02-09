@@ -1,0 +1,21 @@
+<visita id="44">
+  <data>2022-02-20</data>
+  <numAmigos>4</numAmigos>
+  <localidade>Santarém</localidade>
+  <idade>34</idade>
+  <compras>
+            <produto>
+                <descricao>Caneca</descricao>
+                <preco>5</preco>
+            </produto>
+            <produto>
+                <descricao>Pin</descricao>
+                <preco>1</preco>
+            </produto>
+        </compras>
+  <brindes>
+            <brinde>Poster</brinde>
+            <brinde>Régua</brinde>
+        </brindes>
+  <gift>Régua</gift>
+</visita>

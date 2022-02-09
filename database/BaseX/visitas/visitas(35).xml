@@ -1,0 +1,16 @@
+<visita id="35">
+  <data>2022-02-17</data>
+  <numAmigos>2</numAmigos>
+  <localidade>Bragança</localidade>
+  <idade>29</idade>
+  <compras>
+            <produto>
+                <descricao>T-shirt</descricao>
+                <preco>8</preco>
+            </produto>
+        </compras>
+  <brindes>
+            <brinde>Caneca</brinde>
+        </brindes>
+  <gift>Caneca</gift>
+</visita>

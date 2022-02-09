@@ -1,0 +1,16 @@
+<visita id="17">
+  <data>2022-02-04</data>
+  <numAmigos>2</numAmigos>
+  <localidade>Lisboa</localidade>
+  <idade>60</idade>
+  <compras>
+            <produto>
+                <descricao>Caneca</descricao>
+                <preco>5</preco>
+            </produto>
+        </compras>
+  <brindes>
+            <brinde>Porta chaves</brinde>
+        </brindes>
+  <gift>Porta chaves</gift>
+</visita>
