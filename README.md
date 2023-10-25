@@ -4,11 +4,8 @@
 
 ## Technologies
 
--   [XML](https://www.w3schools.com/xml/)
--   [XQuery](https://www.w3schools.com/xml/xquery_intro.asp)
--   [JSON](https://www.json.org/json-en.html)
--   [Python](https://www.python.org/)
--   [MongoDB](https://www.mongodb.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="64" height="64" />](https://www.python.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="64" height="64" />](https://www.mongodb.com/)
 
 ## License
 
